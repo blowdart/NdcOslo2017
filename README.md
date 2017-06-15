@@ -1,2 +1,2 @@
-# Technorama2017
-Samples for Technorama 2017
+# NDC Oslo 2017
+Samples for NDC Oslo 2017
